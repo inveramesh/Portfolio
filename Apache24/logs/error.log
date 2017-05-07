@@ -1,0 +1,126 @@
+[Fri May 05 20:06:28.199037 2017] [ssl:warn] [pid 3124:tid 452] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri May 05 20:06:28.325762 2017] [ssl:warn] [pid 3124:tid 452] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri May 05 20:06:28.325762 2017] [wsgi:warn] [pid 3124:tid 452] mod_wsgi: Compiled for Python/3.4.2.
+[Fri May 05 20:06:28.325762 2017] [wsgi:warn] [pid 3124:tid 452] mod_wsgi: Runtime using Python/3.4.4.
+[Fri May 05 20:06:28.325762 2017] [mpm_winnt:notice] [pid 3124:tid 452] AH00455: Apache/2.4.25 (Win64) OpenSSL/1.0.2k mod_wsgi/4.4.12 Python/3.4.4 configured -- resuming normal operations
+[Fri May 05 20:06:28.326265 2017] [mpm_winnt:notice] [pid 3124:tid 452] AH00456: Server built: Dec 16 2016 23:05:57
+[Fri May 05 20:06:28.326265 2017] [core:notice] [pid 3124:tid 452] AH00094: Command line: 'D:\\Vault\\EMS 2.0\\Apache24\\bin\\httpd.exe -d D:/Vault/EMS 2.0/Apache24'
+[Fri May 05 20:06:28.327820 2017] [mpm_winnt:notice] [pid 3124:tid 452] AH00418: Parent: Created child process 9500
+Apache server interrupted...
+017] [ssl:warn] [pid 9500:tid 516] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri May 05 20:06:28.748490 2017] [ssl:warn] [pid 9500:tid 516] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri May 05 20:06:28.748490 2017] [wsgi:warn] [pid 9500:tid 516] mod_wsgi: Compiled for Python/3.4.2.
+[Fri May 05 20:06:28.748490 2017] [wsgi:warn] [pid 9500:tid 516] mod_wsgi: Runtime using Python/3.4.4.
+[Fri May 05 20:06:28.774536 2017] [mpm_winnt:notice] [pid 9500:tid 516] AH00354: Child: Starting 64 worker threads.
+[Fri May 05 20:22:31.701574 2017] [mpm_winnt:notice] [pid 3124:tid 452] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+017] [mpm_winnt:notice] [pid 9500:tid 516] AH00364: Child: All worker threads have exited.
+[Fri May 05 20:22:33.797107 2017] [mpm_winnt:notice] [pid 3124:tid 452] AH00430: Parent: Child process 9500 exited successfully.
+[Fri May 05 20:25:18.587526 2017] [ssl:warn] [pid 12772:tid 456] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri May 05 20:25:18.712305 2017] [ssl:warn] [pid 12772:tid 456] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri May 05 20:25:18.712305 2017] [wsgi:warn] [pid 12772:tid 456] mod_wsgi: Compiled for Python/3.4.2.
+[Fri May 05 20:25:18.712305 2017] [wsgi:warn] [pid 12772:tid 456] mod_wsgi: Runtime using Python/3.4.4.
+[Fri May 05 20:25:18.712806 2017] [mpm_winnt:notice] [pid 12772:tid 456] AH00455: Apache/2.4.25 (Win64) OpenSSL/1.0.2k mod_wsgi/4.4.12 Python/3.4.4 configured -- resuming normal operations
+[Fri May 05 20:25:18.712806 2017] [mpm_winnt:notice] [pid 12772:tid 456] AH00456: Server built: Dec 16 2016 23:05:57
+[Fri May 05 20:25:18.712806 2017] [core:notice] [pid 12772:tid 456] AH00094: Command line: 'D:\\Vault\\EMS 2.0\\Apache24\\bin\\httpd.exe -d D:/Vault/EMS 2.0/Apache24'
+[Fri May 05 20:25:18.713925 2017] [mpm_winnt:notice] [pid 12772:tid 456] AH00418: Parent: Created child process 18440
+[Fri May 05 20:25:18.980927 2017] [ssl:warn] [pid 18440:tid 152] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri May 05 20:25:19.097454 2017] [ssl:warn] [pid 18440:tid 152] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri May 05 20:25:19.097454 2017] [wsgi:warn] [pid 18440:tid 152] mod_wsgi: Compiled for Python/3.4.2.
+[Fri May 05 20:25:19.097454 2017] [wsgi:warn] [pid 18440:tid 152] mod_wsgi: Runtime using Python/3.4.4.
+[Fri May 05 20:25:20.781480 2017] [mpm_winnt:crit] [pid 12772:tid 456] AH00419: master_main: create child process failed. Exiting.
+[Fri May 05 20:31:30.899536 2017] [ssl:warn] [pid 1696:tid 428] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri May 05 20:31:31.033455 2017] [ssl:warn] [pid 1696:tid 428] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri May 05 20:31:31.033455 2017] [wsgi:warn] [pid 1696:tid 428] mod_wsgi: Compiled for Python/3.4.2.
+[Fri May 05 20:31:31.033455 2017] [wsgi:warn] [pid 1696:tid 428] mod_wsgi: Runtime using Python/3.4.4.
+[Fri May 05 20:31:31.033455 2017] [mpm_winnt:notice] [pid 1696:tid 428] AH00455: Apache/2.4.25 (Win64) OpenSSL/1.0.2k mod_wsgi/4.4.12 Python/3.4.4 configured -- resuming normal operations
+[Fri May 05 20:31:31.033455 2017] [mpm_winnt:notice] [pid 1696:tid 428] AH00456: Server built: Dec 16 2016 23:05:57
+[Fri May 05 20:31:31.033455 2017] [core:notice] [pid 1696:tid 428] AH00094: Command line: 'D:\\Vault\\EMS 2.0\\Apache24\\bin\\httpd.exe -d D:/Vault/EMS 2.0/Apache24'
+[Fri May 05 20:31:31.035458 2017] [mpm_winnt:notice] [pid 1696:tid 428] AH00418: Parent: Created child process 11960
+Apache server interrupted...
+017] [ssl:warn] [pid 11960:tid 484] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri May 05 20:31:31.454594 2017] [ssl:warn] [pid 11960:tid 484] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri May 05 20:31:31.455095 2017] [wsgi:warn] [pid 11960:tid 484] mod_wsgi: Compiled for Python/3.4.2.
+[Fri May 05 20:31:31.455095 2017] [wsgi:warn] [pid 11960:tid 484] mod_wsgi: Runtime using Python/3.4.4.
+[Fri May 05 20:31:31.512775 2017] [mpm_winnt:notice] [pid 11960:tid 484] AH00354: Child: Starting 64 worker threads.
+[Fri May 05 20:31:52.536711 2017] [wsgi:error] [pid 11960:tid 1164] [client ::1:54130] Target WSGI script not found or unable to stat: D:/Vault/EMS 2.0/wsgi_app/wsgi_app.py
+[Fri May 05 20:32:41.366317 2017] [mpm_winnt:notice] [pid 1696:tid 428] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri May 05 20:32:43.368204 2017] [mpm_winnt:notice] [pid 11960:tid 484] AH00364: Child: All worker threads have exited.
+[Fri May 05 20:32:43.402129 2017] [mpm_winnt:notice] [pid 1696:tid 428] AH00430: Parent: Child process 11960 exited successfully.
+[Fri May 05 20:32:44.955167 2017] [ssl:warn] [pid 9336:tid 128] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri May 05 20:32:45.095763 2017] [ssl:warn] [pid 9336:tid 128] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri May 05 20:32:45.096264 2017] [wsgi:warn] [pid 9336:tid 128] mod_wsgi: Compiled for Python/3.4.2.
+[Fri May 05 20:32:45.096264 2017] [wsgi:warn] [pid 9336:tid 128] mod_wsgi: Runtime using Python/3.4.4.
+[Fri May 05 20:32:45.096264 2017] [mpm_winnt:notice] [pid 9336:tid 128] AH00455: Apache/2.4.25 (Win64) OpenSSL/1.0.2k mod_wsgi/4.4.12 Python/3.4.4 configured -- resuming normal operations
+[Fri May 05 20:32:45.096264 2017] [mpm_winnt:notice] [pid 9336:tid 128] AH00456: Server built: Dec 16 2016 23:05:57
+[Fri May 05 20:32:45.096264 2017] [core:notice] [pid 9336:tid 128] AH00094: Command line: 'D:\\Vault\\EMS 2.0\\Apache24\\bin\\httpd.exe -d D:/Vault/EMS 2.0/Apache24'
+[Fri May 05 20:32:45.097265 2017] [mpm_winnt:notice] [pid 9336:tid 128] AH00418: Parent: Created child process 3936
+Apache server interrupted...
+017] [ssl:warn] [pid 3936:tid 460] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri May 05 20:32:45.489516 2017] [ssl:warn] [pid 3936:tid 460] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri May 05 20:32:45.489516 2017] [wsgi:warn] [pid 3936:tid 460] mod_wsgi: Compiled for Python/3.4.2.
+[Fri May 05 20:32:45.489516 2017] [wsgi:warn] [pid 3936:tid 460] mod_wsgi: Runtime using Python/3.4.4.
+[Fri May 05 20:32:45.508538 2017] [mpm_winnt:notice] [pid 3936:tid 460] AH00354: Child: Starting 64 worker threads.
+[Fri May 05 20:32:48.672129 2017] [wsgi:error] [pid 3936:tid 1176] [client ::1:54131] mod_wsgi (pid=3936): Exception occurred processing WSGI script 'D:/Vault/EMS 2.0/fcems/wsgi.py'.
+[Fri May 05 20:32:48.672129 2017] [wsgi:error] [pid 3936:tid 1176] [client ::1:54131] TypeError: sequence of byte string values expected, value of type str found\r
+[Fri May 05 20:35:34.338657 2017] [mpm_winnt:notice] [pid 9336:tid 128] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri May 05 20:35:36.340556 2017] [mpm_winnt:notice] [pid 3936:tid 460] AH00364: Child: All worker threads have exited.
+[Fri May 05 20:35:36.376393 2017] [mpm_winnt:notice] [pid 9336:tid 128] AH00430: Parent: Child process 3936 exited successfully.
+[Fri May 05 20:35:37.128737 2017] [ssl:warn] [pid 16796:tid 492] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri May 05 20:35:37.136751 2017] [core:warn] [pid 16796:tid 492] AH00114: Useless use of AllowOverride in line 283 of D:/Vault/EMS 2.0/Apache24/conf/httpd.conf.
+[Fri May 05 20:35:37.258169 2017] [ssl:warn] [pid 16796:tid 492] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri May 05 20:35:37.258670 2017] [wsgi:warn] [pid 16796:tid 492] mod_wsgi: Compiled for Python/3.4.2.
+[Fri May 05 20:35:37.258670 2017] [wsgi:warn] [pid 16796:tid 492] mod_wsgi: Runtime using Python/3.4.4.
+[Fri May 05 20:35:37.258670 2017] [mpm_winnt:notice] [pid 16796:tid 492] AH00455: Apache/2.4.25 (Win64) OpenSSL/1.0.2k mod_wsgi/4.4.12 Python/3.4.4 configured -- resuming normal operations
+[Fri May 05 20:35:37.258670 2017] [mpm_winnt:notice] [pid 16796:tid 492] AH00456: Server built: Dec 16 2016 23:05:57
+[Fri May 05 20:35:37.258670 2017] [core:notice] [pid 16796:tid 492] AH00094: Command line: 'D:\\Vault\\EMS 2.0\\Apache24\\bin\\httpd.exe -d D:/Vault/EMS 2.0/Apache24'
+[Fri May 05 20:35:37.259672 2017] [mpm_winnt:notice] [pid 16796:tid 492] AH00418: Parent: Created child process 10076
+[Fri May 05 20:35:37.445001 2017] [core:warn] [pid 10076:tid 516] AH00114: Useless use of AllowOverride in line 283 of D:/Vault/EMS 2.0/Apache24/conf/httpd.conf.
+Apache server interrupted...
+017] [ssl:warn] [pid 10076:tid 516] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri May 05 20:35:37.563559 2017] [core:warn] [pid 10076:tid 516] AH00114: Useless use of AllowOverride in line 283 of D:/Vault/EMS 2.0/Apache24/conf/httpd.conf.
+[Fri May 05 20:35:37.675753 2017] [ssl:warn] [pid 10076:tid 516] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri May 05 20:35:37.675753 2017] [wsgi:warn] [pid 10076:tid 516] mod_wsgi: Compiled for Python/3.4.2.
+[Fri May 05 20:35:37.675753 2017] [wsgi:warn] [pid 10076:tid 516] mod_wsgi: Runtime using Python/3.4.4.
+[Fri May 05 20:35:37.804819 2017] [mpm_winnt:notice] [pid 10076:tid 516] AH00354: Child: Starting 64 worker threads.
+[Fri May 05 20:35:51.569631 2017] [mpm_winnt:notice] [pid 16796:tid 492] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri May 05 20:35:53.570653 2017] [mpm_winnt:notice] [pid 10076:tid 516] AH00364: Child: All worker threads have exited.
+[Fri May 05 20:35:53.610211 2017] [mpm_winnt:notice] [pid 16796:tid 492] AH00430: Parent: Child process 10076 exited successfully.
+[Fri May 05 20:35:54.795703 2017] [ssl:warn] [pid 17740:tid 536] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri May 05 20:35:54.923412 2017] [ssl:warn] [pid 17740:tid 536] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri May 05 20:35:54.923913 2017] [wsgi:warn] [pid 17740:tid 536] mod_wsgi: Compiled for Python/3.4.2.
+[Fri May 05 20:35:54.923913 2017] [wsgi:warn] [pid 17740:tid 536] mod_wsgi: Runtime using Python/3.4.4.
+[Fri May 05 20:35:54.923913 2017] [mpm_winnt:notice] [pid 17740:tid 536] AH00455: Apache/2.4.25 (Win64) OpenSSL/1.0.2k mod_wsgi/4.4.12 Python/3.4.4 configured -- resuming normal operations
+[Fri May 05 20:35:54.923913 2017] [mpm_winnt:notice] [pid 17740:tid 536] AH00456: Server built: Dec 16 2016 23:05:57
+[Fri May 05 20:35:54.923913 2017] [core:notice] [pid 17740:tid 536] AH00094: Command line: 'D:\\Vault\\EMS 2.0\\Apache24\\bin\\httpd.exe -d D:/Vault/EMS 2.0/Apache24'
+[Fri May 05 20:35:54.925401 2017] [mpm_winnt:notice] [pid 17740:tid 536] AH00418: Parent: Created child process 11504
+Apache server interrupted...
+017] [ssl:warn] [pid 11504:tid 408] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri May 05 20:35:55.359057 2017] [ssl:warn] [pid 11504:tid 408] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri May 05 20:35:55.359057 2017] [wsgi:warn] [pid 11504:tid 408] mod_wsgi: Compiled for Python/3.4.2.
+[Fri May 05 20:35:55.359057 2017] [wsgi:warn] [pid 11504:tid 408] mod_wsgi: Runtime using Python/3.4.4.
+[Fri May 05 20:35:55.386606 2017] [mpm_winnt:notice] [pid 11504:tid 408] AH00354: Child: Starting 64 worker threads.
+[Fri May 05 20:45:08.490008 2017] [mpm_winnt:notice] [pid 17740:tid 536] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+017] [mpm_winnt:notice] [pid 11504:tid 408] AH00364: Child: All worker threads have exited.
+[Fri May 05 20:45:10.516022 2017] [mpm_winnt:notice] [pid 17740:tid 536] AH00430: Parent: Child process 11504 exited successfully.
