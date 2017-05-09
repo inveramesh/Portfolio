@@ -3,13 +3,12 @@
 .flex {
     display: flex;
 
-    &.horizontal {
+    &:not(.vertical) {
         flex-direction: row;
         &.reverse {
             flex-direction: row-reverse;
         }
     }
-
     &.vertical {
         flex-direction: col;
         &.reverse {
@@ -21,21 +20,34 @@
         flex-wrap: wrap;
     }
 
+    &.start {
+        justify-content: flex-start;
+        &:not(.vertical) > * {
+            margin-right: auto;
+        }
+        &.vertical > * {
+            margin-bottom: auto;
+        }
+    }
     &.justify {
-
+        justify-content: space-between;
+    }
+    &.end {
+        justify-content: flex-end;
+        &:not(.vertical) > * {
+            margin-left: auto;
+        }
+        &.vertical > * {
+            margin-left: auto;
+        }
     }
 
-    .row {
-
+    > .static {
+        flex-basis: static;
     }
-
-    .col  {
-
-    }
-
     @for $i from 1 through 24 {
-        .flex-#{$i} {
-            flex: $i 0 auto;
+        > .grow-#{$i} {
+            flex-grow: $i 0 auto;
         }
     }
 }
