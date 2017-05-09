@@ -1,0 +1,41 @@
+@charset 'utf-8';
+
+.flex {
+    display: flex;
+
+    &.horizontal {
+        flex-direction: row;
+        &.reverse {
+            flex-direction: row-reverse;
+        }
+    }
+
+    &.vertical {
+        flex-direction: col;
+        &.reverse {
+            flex-direction: col-reverse;
+        }
+    }
+
+    &.wrap {
+        flex-wrap: wrap;
+    }
+
+    &.justify {
+
+    }
+
+    .row {
+
+    }
+
+    .col  {
+
+    }
+
+    @for $i from 1 through 24 {
+        .flex-#{$i} {
+            flex: $i 0 auto;
+        }
+    }
+}
